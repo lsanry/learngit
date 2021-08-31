@@ -1,1 +1,1 @@
-Git is a system
+Git is a control system
